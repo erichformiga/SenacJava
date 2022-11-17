@@ -18,4 +18,4 @@ cp -r ./src/archives ./target
 ```
 java -jar ./lib/junit-platform-console-standalone-1.9.0-RC1.jar --class-path target --scan-class-path
 
-```'
+```outra
